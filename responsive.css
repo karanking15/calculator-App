@@ -1,0 +1,29 @@
+@media(max-width: 800px)
+{
+    h1
+    {
+        font-size: 2rem;
+    }
+    .input
+    {
+        height: 7vh;
+        font-size:1.5rem;
+    }
+    .result
+    {
+        width:85vw;
+    }
+    .buttons
+    {
+        width: 85vw;
+    }
+    .row
+    {
+        margin-top: 1rem;
+    }
+    .btn{
+        height: 50px;
+        width: 50px;
+    }
+}
+
